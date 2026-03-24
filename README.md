@@ -21,3 +21,6 @@ SQL project analyzing music store sales data to extract business insights
 ## Project Files
 - music_store_database.sql → Database structure and data
 - analysis_queries.sql → SQL queries for analysis
+## Database Schema
+
+![Schema](MusicDatabaseSchema.png)
